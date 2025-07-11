@@ -1,6 +1,7 @@
-package org.project.broadcastwebsocket;
+package org.project.broadcastwebsocket.websocket;
 
 import lombok.AllArgsConstructor;
+import org.project.broadcastwebsocket.config.ChatHandler;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.socket.config.annotation.EnableWebSocket;
 import org.springframework.web.socket.config.annotation.WebSocketConfigurer;

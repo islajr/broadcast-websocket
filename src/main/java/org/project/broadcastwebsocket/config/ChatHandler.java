@@ -1,4 +1,4 @@
-package org.project.broadcastwebsocket;
+package org.project.broadcastwebsocket.config;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.socket.CloseStatus;
